@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-banner-bg);
+      }
+
+      .cls-2 {
+        fill: #e3f9ed;
+      }
+
+      .cls-3 {
+        fill: #e6f5f2;
+      }
+
+      .cls-4 {
+        fill: #f6f6f6;
+      }
+
+      .cls-5 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-6 {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="1" y1="0.009" x2="0.41" y2="0.758" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6200ea"/>
+      <stop offset="0.16" stop-color="#376aaf"/>
+      <stop offset="1" stop-color="#00f9cc"/>
+    </linearGradient>
+    <clipPath id="clip-banner-bg">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="banner-bg" class="cls-1">
+    <rect class="cls-6" width="1920" height="1080"/>
+    <ellipse id="Ellipse_1" data-name="Ellipse 1" class="cls-2" cx="397" cy="315" rx="397" ry="315" transform="translate(1348 302)"/>
+    <path id="Path_2" data-name="Path 2" class="cls-3" d="M546.5-2S714.5,126,918,234c171,121,194,252,210,330s38.5,117,94.5,117c1.5-.5-94.5-481-94.5-481L840,8Z"/>
+    <path id="Path_3" data-name="Path 3" class="cls-4" d="M1974,784s-338,298-708-106c-6,0,708,48,708,48Z"/>
+    <path id="Path_1" data-name="Path 1" class="cls-5" d="M602,0S752,108,906,192s220,145.333,242,377.333C1186.667,732,1312,694,1312,694s260,290,612,104V0Z"/>
+  </g>
+</svg>

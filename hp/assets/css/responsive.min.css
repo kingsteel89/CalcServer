@@ -1,0 +1,118 @@
+@media (max-width:575.98px) {}
+
+@media (max-width:767.98px) {
+    .navbar-brand {
+        width: 150px;
+    }
+
+    .slider {
+        padding: 16% 0;
+    }
+
+    .slider .text-box h1 {
+        padding-top: 10vh;
+        font-size: 30px;
+        text-align: center;
+    }
+
+    .slider .text-box p {
+        font-size: 18px;
+        padding-top: 15%;
+        text-align: center;
+    }
+
+    .slider .text-box {
+        width: 100%;
+    }
+
+    .btn-start {
+        width: 100%;
+        float: left;
+        font-size: 14px;
+        padding: 10px 10px;
+    }
+
+    .slider .btn-demo {
+        width: 100%;
+        float: left;
+        font-size: 14px;
+        padding: 10px 10px;
+    }
+
+    .slider .screen {
+        display: none !important;
+    }
+
+    .banner .text-box h1 {
+        padding-top: 25%;
+        font-size: 30px;
+    }
+
+    .banner .text-box p {
+        font-size: 18px;
+        padding-top: 5%;
+    }
+
+    .slider .no-credit p {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }
+
+    .workprocess-section .left-section .image-section::after {
+        left: 15%;
+        top: 15%;
+    }
+
+    .workprocess-section .right-section .image-section::after {
+        right: 15%;
+        top: 15%;
+    }
+
+    section.register-section h2 {
+        text-align: center;
+        font-size: 26px;
+    }
+
+    section.register-section .btn-register {
+        width: 200px;
+        margin: 0 auto;
+        margin-left: 25%;
+        margin-top: 10%;
+        float: none;
+        text-align: center;
+    }
+
+    section.feature-section .heading h2 {
+        text-align: center;
+    }
+
+    section.feature-section .heading .underline {
+        margin: 25px auto;
+    }
+
+    section.feature-section .heading p {
+        text-align: center;
+        width: 100%;
+    }
+
+    section.download-section h2 {
+        font-size: 26px;
+    }
+
+    section.download-section p {
+        font-size: 16px;
+    }
+
+    section.download-section .playstore {
+        width: 180px;
+    }
+}
+
+@media (max-width:991.98px) {
+    .workprocess-section .right-section .details-section {
+        position: inherit;
+    }
+}
+
+@media (max-width:1199.98px) {}
